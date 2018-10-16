@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: GitHub pages チュートリアル
+description: 自己紹介　宮田 和真
+github:
+  is_project_page: false
